@@ -1,4 +1,5 @@
-#Nikhil Savant - Student-Programmer 
+Nikhil Savant - Student-Programmer                                                                                 
+
 I am a junior at Jones College Prep, and have a deep enthusiasm for coding. I've been coding since 6th grade, starting off with block code & advancing to more challenging programming languages. Below you will see my proficiencies & interests. 
 
 Building Proficiency in: 
