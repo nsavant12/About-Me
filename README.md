@@ -1,24 +1,26 @@
 Nikhil Savant - Student-Programmer                                                                                 
 
-I am a junior at Jones College Prep, and have a deep enthusiasm for coding. I've been coding since 6th grade, starting off with block code & advancing to more challenging programming languages. Below you will see my proficiencies & interests. 
+I am a rising Sophomore @ UIUC studying CS + Econ. Below you will see my proficiencies & interests. 
 
 Building Proficiency in: 
-- Java (Currently enrolled in CSA and plan on making a project independent from school after the course is completed)
-- JavaScript
-- TypeScript
+- C++
+- React Native
 
 Proficient in: 
-- HTML 
+- HTML/CSS
 - Python
-- CSS
+- JavaScript
+- TypeScript
+- Java
+- Swift
+- R
 
 Interests: 
-- F1 
 - Cars
 - Sports 
-- Coding 
+- Photography 
 - Finance/Stocks
 - Gaming
-- Engineering 
+- Nature 
 
 Please reach out to me @ nsavant033@gmail.com if you have any questions or comments!
