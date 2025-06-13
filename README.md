@@ -1,4 +1,4 @@
-Nikhil Savant - Student-Programmer                                                                                 
+Nikhil Savant - Student & Programmer                                                                                 
 
 I am a rising Sophomore @ UIUC studying CS + Econ. Below you will see my proficiencies & interests. 
 
